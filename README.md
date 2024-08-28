@@ -1,6 +1,6 @@
 # Olá, eu sou Leoman Cássio 👋
 
-Atualmente, estou cursando Sistemas de informação e tenho uma paixão por resolver problemas complexos e criar soluções eficientes.
+Atualmente estou cursando Sistemas de informação.
 
 <div>
   <a href="https://beacons.ai/Leomaan">

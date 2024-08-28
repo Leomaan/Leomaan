@@ -1,6 +1,6 @@
 # Olá, eu sou Leoman Cássio 👋
 
-Atualmente estou cursando Sistemas de informação.
+Estudante de tecnologia, futuro Java Senior.
 
 <div>
   <a href="https://beacons.ai/Leomaan">

@@ -1,6 +1,6 @@
 # Olá, eu sou Leoman Cássio 👋
 
-Estudante de tecnologia, futuro Java Senior.
+Estudante de tecnologia
 
 <div>
   <a href="https://beacons.ai/Leomaan">

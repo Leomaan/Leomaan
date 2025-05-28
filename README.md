@@ -42,8 +42,8 @@ Estudante de tecnologia
 
 ## 🌱 O que estou aprendendo?
 
-- 📖 Atualmente, estou aprimorando minhas habilidades em React.js.
-- 👨🏿‍💻Aprendendo Java, seu ambiente e suas ferramentas.
+- 📖 Atualmente estou aprimorando minha habilidades e meus conhecimentos em Java e todo seu ambiente.
+  
 
 Obrigado por visitar meu perfil!
 

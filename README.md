@@ -43,6 +43,8 @@ Estudante de tecnologia
 ## 🌱 O que estou aprendendo?
 
 - 📖 Atualmente estou aprimorando minha habilidades e meus conhecimentos em Java e todo seu ambiente.
+
+
   
 
 Obrigado por visitar meu perfil!

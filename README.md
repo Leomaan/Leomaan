@@ -54,8 +54,16 @@ Full Stack Developer focused on building clean and scalable web applications. Cu
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Leomaan&show_icons=true&theme=tokyonight" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Leomaan&layout=compact&theme=tokyonight" />
+  <img
+    height="160em"
+    src="https://github-readme-stats.vercel.app/api?username=Leomaan&show_icons=true&theme=github_dark&hide_border=true"
+    alt="GitHub Stats"
+  />
+  <img
+    height="160em"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Leomaan&layout=compact&theme=github_dark&hide_border=true"
+    alt="Top Languages"
+  />
 </p>
 
 ---

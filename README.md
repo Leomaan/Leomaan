@@ -4,6 +4,16 @@
   Full Stack Developer
 </p>
 
+🌎 Based in Brazil
+
+✉️ Reach me at: leoman.cassio@hotmail.com
+
+📚 Currently expanding my expertise in the Node.js ecosystem, with a focus on API development, database design, Prisma, Sequelize, automated testing, and software architecture
+
+🎓 Bachelor's Degree in Software Engineering (in progress)
+
+🇬🇧 Advanced English (B2)
+
 <p align="center">
   <a href="https://www.linkedin.com/in/leomanc%C3%A1ssio/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white"/>
@@ -22,7 +32,9 @@
 
 ### About me
 
-Full Stack Developer focused on building clean and scalable web applications. Currently deepening my knowledge in the JavaScript/Node.js ecosystem and relational databases.
+Full Stack Developer passionate about building scalable and maintainable applications. I enjoy working across the entire development lifecycle, from designing APIs and databases to creating intuitive user interfaces.
+
+Currently focused on strengthening my expertise in Node.js, software architecture, relational databases, testing, and modern web development practices.
 
 ---
 
@@ -51,15 +63,6 @@ Full Stack Developer focused on building clean and scalable web applications. Cu
 
 ---
 
-### 🚀 Featured Projects
+### 📫 Connect with Me
 
-| Project | Description | Stack |
-|---|---|---|
-| [simple-order-system](https://github.com/Leomaan/simple-order-system) | In-restaurant order management system — create menus, manage table orders and track items in real time. | React · Node.js · Sequelize |
-| [backend-logistic](https://github.com/luigiikk/backend-logistic) | Logistics platform for carriers — manages vehicles, orders, resources and warehouses, with communication between e-commerces and employees. | Node.js · TypeScript · Prisma · PostgreSQL |
-
----
-
-<p align="center">
-  <i>Feel free to reach out — always open to new opportunities and collaborations.</i>
-</p>
+Feel free to reach out if you'd like to discuss technology, software development, or collaboration opportunities.

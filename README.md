@@ -48,8 +48,8 @@ Full Stack Developer focused on building clean and scalable web applications. Cu
 
 | Project | Description | Stack |
 |---|---|---|
-| [simple-order-system](https://github.com/Leomaan/simple-order-system) | In-restaurant order management system — create menus, manage table orders and track items in real time. | React · Node.js · Prisma |
-| [backend-logistic](https://github.com/luigiikk/backend-logistic) | Logistics platform for carriers — manages vehicles, orders, resources and warehouses, with communication between e-commerces and employees. | Node.js · PostgreSQL |
+| [simple-order-system](https://github.com/Leomaan/simple-order-system) | In-restaurant order management system — create menus, manage table orders and track items in real time. | React · Node.js · Sequelize |
+| [backend-logistic](https://github.com/luigiikk/backend-logistic) | Logistics platform for carriers — manages vehicles, orders, resources and warehouses, with communication between e-commerces and employees. | Node.js · TypeScript · Prisma · PostgreSQL |
 
 ---
 

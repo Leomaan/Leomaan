@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Leoman Cássio 👋</h1>
 
 <p align="center">
-  Full Stack Developer · Information Systems @ UNEB
+  Full Stack Developer
 </p>
 
 <p align="center">

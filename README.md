@@ -29,16 +29,25 @@ Full Stack Developer focused on building clean and scalable web applications. Cu
 ### 🛠 Tech Stack
 
 **Front-end**
-`HTML5` `CSS3` `JavaScript` `TypeScript` `React` `Tailwind CSS`
+`React` `Next.js` `TypeScript` `JavaScript` `Tailwind CSS` `Vite` `Axios`
 
 **Back-end**
-`Node.js` `Java` `Spring`
+`Node.js` `Express.js` `Java` `Spring Boot`
 
 **Database & ORM**
-`MySQL` `PostgreSQL` `Prisma` `Sequelize`
+`MySQL` `PostgreSQL` `Sequelize` `Prisma`
 
-**Tools**
-`Git` `GitHub`
+**Testing**
+`Vitest` `Supertest`
+
+**DevOps & Tools**
+`Docker` `Git` `GitHub`
+
+**Documentation & Validation**
+`Swagger/OpenAPI` `Zod`
+
+**Architecture & Practices**
+`REST API` `MVC` `JWT Authentication` `Clean Code`
 
 ---
 

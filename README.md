@@ -12,7 +12,7 @@
 
 🎓 Bachelor's Degree in Software Engineering (in progress)
 
-🇬🇧 Advanced English (B2)
+🇬🇧 Advanced English (C1)
 
 <p align="center">
   <a href="https://www.linkedin.com/in/leomanc%C3%A1ssio/">
